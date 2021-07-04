@@ -5,10 +5,12 @@ source: _DataCamp's Project_
 
 ### 1. Do blowouts translate to lost viewers?
 *_we create a scatter plot with a linear regression model fit._*
+
 ![Scatter Plot](https://user-images.githubusercontent.com/62869685/124376163-d6803700-dccf-11eb-8f8b-c4650f672506.png)
 
 ### 2. Viewership and the ad industry over time
 *_we Create a figure with 3x1 subplot and activate the top subplot._*
+
 ![SubPlot](https://user-images.githubusercontent.com/62869685/124376164-d718cd80-dccf-11eb-99fe-f7bcb8800adb.png)
 
 ### 3. Who performed the most songs in a halftime show?
